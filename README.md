@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of ernestdefoe/club.** Not for installation: use [Packagist](https://packagist.org/packages/ernestdefoe/club) or the [upstream repository](https://github.com/ernestdefoe/club).
 
-**1** versions archived · Latest: [`v1.0.0`](https://github.com/flarchive/ernestdefoe-club/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^2.0`
+**0** versions archived · Latest: [`v1.0.1`](https://github.com/flarchive/ernestdefoe-club/tree/archive/v1.0.1) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| `v1.0.0` | 2026-10-16 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-club/tree/archive/v1.0.0) |
+| — | — | — | — |
 
 Catalog entry: [packages/ernestdefoe-club.json](https://github.com/flarchive/archive-index/blob/main/packages/ernestdefoe-club.json)
 
